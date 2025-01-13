@@ -9,7 +9,9 @@ import logging
 import time
 
 # === Configuration ===
-API_TOKEN = "VOTRE_TELEGRAM_API_TOKEN"
+API_TOKEN = "7943481895:AAEC_uGT4HKgjN1fTLGKXtpHnsvEYro5w20
+
+For a description of the Bot API, see this page: https://core.telegram.org/bots/api"
 API_FOOTBALL_KEY = "VOTRE_CLE_API_FOOTBALL"
 FOOTBALL_ENDPOINT = "https://v3.football.api-sports.io"
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
